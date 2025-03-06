@@ -1,0 +1,12 @@
+
+---
+
+### **3. requirements.txt**  
+Include all dependencies:  
+```text
+pandas
+matplotlib
+prophet
+plotly
+kaleido
+jupyterlab
