@@ -1,12 +1,13 @@
+# Core dependencies
+pandas==2.0.3
+matplotlib==3.7.2
 
----
+# Forecasting
+prophet==1.1.5
 
-### **3. requirements.txt**  
-Include all dependencies:  
-```text
-pandas
-matplotlib
-prophet
-plotly
-kaleido
-jupyterlab
+# Visualization
+plotly==5.18.0
+kaleido==0.2.1  # Required for Plotly static image export
+
+# Jupyter
+jupyterlab==4.0.10
